@@ -1,0 +1,457 @@
+.container{
+    width: 100%;
+    height: auto;
+}
+body{
+    margin: 0;
+    height: auto;
+}
+.heading{
+    height: 89px;
+    width: 100%;
+    background: black;
+    margin: 0px;
+}h1{
+    margin: 0px;
+
+}
+.logo2{
+    color: white;
+    padding-left: 293px;
+    margin-top: -31px;
+}
+.logo3{
+   padding-top: 35px;
+   margin-left: 14px;
+   background: black;
+   color: white;
+   border: black;
+   border-radius: 4px;
+   font-size: 16px;
+    float: left;
+}
+.uber-logo{
+    width: 59px;
+    height: 55px;
+    margin-top: 15px;
+    margin-left: -361px;
+}
+.logo4{
+   padding-top: 35px;
+   margin-left: 200px;
+   background: black;
+   color: white;
+   border: black;
+   border-radius: 4px;
+   font-size: 16px;
+    float: left;
+}
+.logo5{
+   padding-top: 35px;
+   margin-left: 20px;
+   background: black;
+   color: white;
+   border: black;
+   border-radius: 4px;
+   font-size: 16px;
+    float: left;
+}
+.button{
+    background: black;
+    margin-top: 15px;
+   color: white;
+   border: black;
+   border-radius: 4px;
+   font-size: 16px;
+   margin-top: 35px;
+   margin-left: 15px;
+    float: left;
+}
+.top1{
+    background: black;
+    height: 87px;
+    width: 50%;
+    float: left;
+}
+.logo6{
+    background: black;
+    margin-top: 15px;
+   color: white;
+   border: black;
+   border-radius: 4px;
+    float: inline-end;
+    margin-right: 182px;
+    margin-top: 35px;
+    font-size: 15px;
+}
+.logo7{
+    margin-top: 15px;
+   color: white;
+   border: black;
+   border-radius: 4px;
+    float: inline-end;
+    margin-right: 12px;
+    margin-top: 35px;
+    font-size: 15px;
+    background: black;
+}
+.logo8{
+   background:white;
+   float: inline-end;
+   color: black;
+   margin-top: 31px;
+   border-color: black;
+   border-radius: 16px;
+   font-size: 18px;
+   padding-left: 8px;
+   margin-right: -199px;
+}
+.uber-en{
+        width: 47px;
+    height: 52px;
+    float: right;
+    margin-right: 31px;
+    margin-top: 18px;
+}
+.logo9{
+    color:white;
+    font-weight: bold;
+    margin-right: -65px;
+    margin-top: 36px;
+    float: inline-end;
+}
+.middle1{
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.toptext1{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 68px;
+    margin-top: 14px;
+    font-size: 24px;
+    float: left;
+}
+.img1{
+    width: 22px;
+    height: 20px;
+    margin-top: 131px;
+    margin-left: 97px;
+}
+.kochi{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 249px;
+    margin-top: -20px;
+}
+.toptext{
+    font-weight: bold;
+    font-size: 52px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 184px;
+    margin-top:-13px;
+    float: left;
+}
+.offer-tag{
+    font-size: 18px;
+    margin-top: 176px;
+    margin-left: 191px;
+}
+.img2{
+   width: 16px;
+    height: 17px;
+    padding-left: 394px;
+}
+.button1{
+    height: 79px;
+    width: 446px;
+    margin-top: 23px;
+    padding-right: 209px;
+    margin-left:192px;
+    font-weight: bold;
+  border-radius: 7px;
+  border-style: none;
+  color: rgb(169, 172, 175);
+}
+.button2{
+    height: 79px;
+    width: 446px;
+    margin-top: 23px;
+    padding-right: 209px;
+    margin-left:192px;
+    font-weight: bold;
+  border-radius: 7px;
+  border-style: none;
+  color: rgb(169, 172, 175);
+}
+.button3{
+    height: 51px;
+    width: 119px;
+    margin-top: 19px;
+    margin-left: 193px;
+    font-weight: bold;
+  border-radius: 7px;
+  border-style: none;
+  background: black;
+  color: white;
+}
+.button4{
+    height: 50px;
+    width: 209px;
+    margin-top: 19px;
+    float: inline-end;
+    margin-right: 206px;
+    font-weight: bold;
+  border-radius: 7px;
+  border-style: none;
+}
+.meddile2{
+    color: black;
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.secondleare{
+    float: inline-end;
+    margin-top: 28px;
+    margin-right: 562px;
+     color: rgb(168, 161, 161);
+}
+.secondleare1{
+    margin-right: -210px;
+    margin-top: 28px;
+     float: inline-end;
+      color: rgb(168, 161, 161);
+}
+.secondleare2{
+    margin-right: -303px;
+    margin-top: 28px;
+     float: inline-end;
+      color: rgb(168, 161, 161);
+}
+.secondleare3{
+margin-right: -443px;
+margin-top: 28px;
+ float: inline-end;
+  color: rgb(168, 161, 161);
+}
+.secondleare5{
+margin-right: 105px;
+margin-top: -34px;
+ float: inline-end;
+ color: rgb(168, 161, 161);
+}
+.second1{
+    width: 603px;
+    height: 712px;
+}
+.sug{
+    margin-left: 187px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    margin-top: 76px;
+}
+.img3{
+    width: 360px;
+    height: 189px;
+    margin-left: 179px;
+     border-radius: 7px;
+     margin-top: 27px;
+
+}
+.img4{
+    width: 360px;
+    height: 189px;
+    margin-left: 51px;
+    border-radius: 7px;
+}
+.img5{
+    width: 360px;
+    height: 189px;
+    margin-left: 179px;
+    border-radius: 7px;
+    margin-top: 11px;
+}
+.last-first{
+    width: 100%;
+    height: 503px;
+    background: black;
+    float: left;
+}
+.img6{
+    width: 579px;
+    height: 378px;
+    float: right;
+    margin-top: 53px;
+    margin-right: 150px;
+}
+.last-text{
+    color: white;
+    margin-top: 70px;
+    margin-left: 177px;
+}
+.last-text1{
+    color: white;
+    margin-left: 178px;
+}
+.business-travel{
+    color: white;
+    margin-left: 131px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.strted-button{
+    margin-left: 135px;
+    margin-top: 15px;
+    border-radius: 7px;
+    border-style: none;
+    background: rgb(251, 250, 250);
+    color: rgb(4, 4, 4);
+    height: 50px;
+    width: 135px;
+    font-weight: bold;
+}
+.last-button{
+    color: white;
+    margin-left: 18px;
+    letter-spacing: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.uberqr{
+    float: right;
+    margin-right: 247px;
+    margin-top: -292px;
+    width: 466px;
+    height: 209px
+}
+.qrcode{
+    width: 466px;
+    height: 210px;
+    margin-top: 88px;
+    margin-left: 159px;
+}
+.last-part{
+    width: 100%;
+    height: 750px;
+    background: black;
+}
+.second-last2{
+    height: 428px;
+    background: rgb(246, 240, 240);
+    margin-top: 59px;
+}
+.secondlast1{
+    color: rgb(246, 240, 240);
+    margin-left: 227px;
+    padding-top: 10px;
+}
+.Ayush{ background-color: rgb(246, 240, 240);
+}
+.ayush2{
+   margin-left: 163px;
+    font-weight: bold;
+    font-size: 41px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.last-img{
+    height: 60px;
+    width: 59px;
+    margin-left: 111px;
+}
+.help-center{
+    color: white;
+    margin-left: 106px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+
+}
+.ending{
+    color: white;
+    margin-left: 1115px;
+}
+.larst-part1{
+    color: white;
+    margin-left: 201px;
+    margin-top: 123px;
+    font-size: 20px;
+}
+
+.larst-part2{
+    color: white;
+    font-size: 20px;
+   margin-left: 470px;
+    margin-top: -41px;
+}
+.larst-part3{
+    color: white;
+    font-size: 20px;
+   margin-left: 760px;
+    margin-top: -41px;
+}
+.larst-part4{
+    color: white;
+    font-size: 20px;
+    margin-left: 1112px;
+    margin-top: -39px;
+}
+.ending1{
+    color: white;
+    margin-left: 810px;
+    margin-top: -96px;
+}
+.ending2{
+    color: white;
+    margin-top: -65px;
+    margin-left: 485px;
+}
+.ending3{
+    color: white;
+    margin-top: -239px;
+    margin-left: 205px;
+}
+.bottom-img{
+    width: 224px;
+    height: 48px;
+    margin-left: 220px;
+    margin-top: 17px;
+}
+.bottom-img2{
+    width: 224px;
+    width: 197px;
+    height: -4px;
+    margin-left: 233px;
+    margin-top: 62px;
+}
+.uber-en1{
+float: right;
+}
+.global{
+         width: 32px;
+    height: 39px;
+    float: right;
+    margin-right: 321px;
+    margin-top: -55px;
+}
+.english{
+    margin-top: -44px;
+    margin-right: 272px;
+    color: white;
+    float: right;
+}
+.Location{
+         width: 31px;
+    color: white;
+    height: 18px;
+    float: right;
+    margin-right: 230px;
+    margin-top: -46px;
+}
+.Location1{
+    margin-top: -44px;
+    margin-right: 187px;
+    color: white;
+    float: right;
+}
